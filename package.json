@@ -1,0 +1,23 @@
+{
+  "name": "jssipwrap",
+  "version": "1.0.0",
+  "description": "jssip wrap ,use for my own callcenter",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://jiaguolin@www.mihua.biz:8888/ruby/JsSipWrap.git"
+  },
+  "keywords": [
+    "webrtc",
+    "sip"
+  ],
+  "author": "jiaguolin@emicnet.com",
+  "license": "MIT",
+  "dependencies": {
+    "jssip": "^3.2.11",
+    "debug": "~3.1.0"
+  }
+}
