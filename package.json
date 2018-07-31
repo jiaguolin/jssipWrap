@@ -4,6 +4,8 @@
   "description": "jssip wrap ,use for my own callcenter",
   "main": "lib/index.js",
   "scripts": {
+    "compile": "babel -d lib/ src/",
+    "prepublish": "npm run compile",
     "test": "test"
   },
   "repository": {
