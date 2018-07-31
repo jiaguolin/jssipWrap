@@ -6,7 +6,6 @@
   "scripts": {
     "babel": "gulp babel",
     "test": "gulp test"
-    
   },
   "repository": {
     "type": "git",

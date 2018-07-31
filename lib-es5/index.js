@@ -10,7 +10,7 @@ var _getLoginInfo = require('./getLoginInfo');
 
 var _getLoginInfo2 = _interopRequireDefault(_getLoginInfo);
 
-var _Logger = require('../lib/Logger');
+var _Logger = require('./Logger');
 
 var _Logger2 = _interopRequireDefault(_Logger);
 
